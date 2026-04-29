@@ -177,3 +177,7 @@ VLESS/WS 客户端
 - 交流群组：[Telegram](https://t.me/Enkelte_notif)
 - Arti 源码：<https://gitlab.torproject.org/tpo/core/arti>
 - Tor 官方源码：<https://gitlab.torproject.org/tpo/core/tor>
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/ToiCF/CF-Workers-TOR.svg?variant=adaptive)](https://starchart.cc/ToiCF/CF-Workers-TOR)
