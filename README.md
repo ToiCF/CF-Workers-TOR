@@ -175,3 +175,5 @@ VLESS/WS 客户端
 
 - 开源协议：[GPL-3.0](./LICENSE)
 - 交流群组：[Telegram](https://t.me/Enkelte_notif)
+- Arti 源码：<https://gitlab.torproject.org/tpo/core/arti>
+- Tor 官方源码：<https://gitlab.torproject.org/tpo/core/tor>
